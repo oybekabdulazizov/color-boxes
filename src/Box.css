@@ -1,0 +1,15 @@
+.Box {
+    margin: 0;
+    padding: 0;
+    width: 15rem;
+    height: 15rem;
+}
+
+.Box button {
+    width: 15rem;
+    height: 15rem;
+    padding: 0;
+    margin: 0;
+    border: 0px;
+    cursor: pointer;
+}

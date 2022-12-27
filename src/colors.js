@@ -4,7 +4,7 @@ const colors = [
     { name: "gold", code: "#FFD700" },
     { name: "lawngreen", code: "#7CFC00" },
     { name: "aqua", code: "#00FFFF" },
-    { name: "darkslategray", code: "#2F4F4F" },
+    { name: "magenta", code: "#FF00FF" },
     { name: "indigo", code: "#4B0082" },
     { name: "blue", code: "#0000FF" },
     { name: "mediumslateblue", code: "#00BFFF" },
