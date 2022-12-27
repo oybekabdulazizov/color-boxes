@@ -1,10 +1,10 @@
 import './App.css';
-import Box from './Box';
+import BoxesContainer from './BoxesContainer';
 
 function App() {
   return (
     <div className="App">
-      <Box />
+      <BoxesContainer />
     </div>
   );
 }
